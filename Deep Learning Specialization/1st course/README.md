@@ -22,3 +22,7 @@
 2️⃣ **Logistic Regression Cost Function**
 - Q : What is the difference between the cost function and the loss function for logistic regression? 
 - A : The loss function computes the error for a single training example; the cost function is the average of the loss functions of the entire training set.
+- 
+3️⃣ **Gradient Descent**
+- Q : True or false. A convex function always has multiple local optima.
+- A : false
