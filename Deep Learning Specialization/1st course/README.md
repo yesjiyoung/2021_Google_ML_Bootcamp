@@ -26,3 +26,7 @@
 3️⃣ **Gradient Descent**
 - Q : True or false. A convex function always has multiple local optima.
 - A : false
+
+4️⃣ **Derivatives**
+- Q : On a straight line, the function's derivative... 
+- A : doesn't change 
